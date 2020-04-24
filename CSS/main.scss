@@ -1,0 +1,26 @@
+/*
+Project Name: PWA-1
+Client: N/A
+Author: Trin3232 (GitHub)
+*/
+
+/******************Fonts & Colours Variables ****************************/
+
+@import "./normalize.css";
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+
+/********************Defaults*******************/
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }

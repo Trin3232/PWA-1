@@ -4,9 +4,8 @@ Client: N/A
 Author: Trin3232 (GitHub)
 */
 /******************Fonts & Colours Variables ****************************/
-@import url(e:\HDD Backup\GitHub\PWA-1\CSS\normalize.css);
-@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
+
 /********************Defaults*******************/
 * {
   -webkit-box-sizing: border-box;
@@ -21,4 +20,3 @@ Author: Trin3232 (GitHub)
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
-/*# sourceMappingURL=main.css.map */
